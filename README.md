@@ -1,8 +1,8 @@
-# Data Science Portfolio by Malachi Ivey
-This repository of my projects and notebooks relaated to data analysis and machine learning. 
+## Welcome to my portfolio.
+Below you can find a number of my personal projects that I've worked on recently. They tackle data science and analysis issues with machine learning, plotting, and/or data exploration techniques.
 
-## Kaggle Competitions
-coming soon..
+**Note**: These projects are in chronological order, so the higher a project is, the newer it is.
 
-## Stand Alone Projects
-coming soon...
+## Projects
+
+### Chess Analyzed

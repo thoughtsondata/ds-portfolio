@@ -15,7 +15,7 @@ _Technology Used: Python, Pandas, Sklearn, Matplot, Numpy, Seaborn, Dash, AWS_
 
 TODO
 
-_Technology Used: Python, Numpy, Pandas
+_Technology Used: Python, Numpy, Pandas_
 
 ### AirBnB Price Checker
 

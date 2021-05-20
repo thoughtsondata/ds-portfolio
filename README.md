@@ -14,7 +14,7 @@ This is our scenario: Imagine a property owner wants to estimate which of their 
 1. A buildings cooling load
 2. A buildings heating load
 
-Using data that contains the energy and size metrics of various buildings, I answer this question using a linear and ridge regression models. The end result being models that can predict a buildings energy consumption based on its compactness, total wall and glazing area, and overall height.  
+Using data that contains the energy and size metrics of various buildings, I answer this question using both linear and ridge regression models. The end result being models that can predict a buildings energy consumption based on its compactness, total wall and glazing area, and overall height.  
 
 View the notebook [here](https://github.com/zarekivey/ds-portfolio/blob/main/Energy_Dashboard/energy_dashboard.ipynb).
 
